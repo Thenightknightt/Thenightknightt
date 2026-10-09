@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/gcq4gK4w/In-Shot-20261009-141502973.png" width="190"/>
+<img src="https://i.postimg.cc/HLY6MZfb/1791549184049.png" width="190"/>
 
 
 <div align="center">
