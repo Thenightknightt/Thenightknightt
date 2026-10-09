@@ -17,3 +17,9 @@
   </a>
 </p>
 
+<div align="center">
+
+<img src="https://i.postimg.cc/13h1vGp2/In-Shot-20261009-093551814.png" width="190"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:65744B,100:493020&height=2&section=header"/>
+
