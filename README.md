@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/cHQxt1md/In-Shot-20261013-073106827.png" width="190"/>
+<img src="https://i.postimg.cc/cHQxt1md/In-Shot-20261013-073106827.png" width="150"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:65744B,100:493020&height=2&section=header"/>
 
