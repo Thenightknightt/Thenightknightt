@@ -1,12 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F3826,100:493020&height=2&section=header"/>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/𝑠𝑡𝑟𝑎𝑤𝑏𝑒𝑟𝑟𝑖𝑒𝑠-56-755E3D?labelColor=493020">
 </div>
 
-<div align="center">
 
-<img src="https://i.postimg.cc/Z5w1CRDx/In-Shot-20261014-033828391.png" width="400"/>
+
+<p align="center"> 𝑤𝑖𝑝 𝑎𝑐𝑐𝑜𝑢𝑛𝑡 𝑖𝑑𝑘
+𝑎𝑛𝑦𝑤𝑎𝑦 𝑖𝑛𝑡 𝑓𝑟𝑒𝑒𝑙𝑦 𝑤𝑖𝑡ℎ 𝑚𝑒 (𝑙𝑜𝑤𝑘 𝑎𝑙𝑤𝑎𝑦𝑠 𝑜𝑓𝑓𝑡𝑎𝑏) 𝑐+ℎ 𝑎𝑛𝑦𝑜𝑛𝑒 𝑖𝑑𝑚 𝑝𝑙𝑧 𝑠𝑖𝑡 𝑛𝑒𝑥𝑡 𝑡𝑜 𝑚𝑒𝑒𝑒!! 
+
+𝑆𝐼𝐺𝑁 𝐴𝑇𝐴 𝑃𝐿𝑍 𝑂𝐾!! 𝑌𝐴𝑌
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
@@ -18,37 +21,7 @@
 </p>
 
 
-<div align="center">
-<details>
-<summary> 𝐷𝑁𝐼 . . .</summary>
-
-<br>
-
-<img src="https://i.postimg.cc/3JSswNqS/In-Shot-20261014-035003177.png" width="200">
-
-<br><br>
 
 
 
-</details>
-</div>
-
-
-<div align="center">
-<details>
-<summary>𝐼𝑁𝑇 . . .</summary>
-
-<br>
-
-<img src="https://i.postimg.cc/cC5FdgJx/In-Shot-20261014-035256027.png" width="200">
-
-<br><br>
-
-
-
-</details>
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:755E3D,100:493020&height=2&section=header"/>
 
