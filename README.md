@@ -4,10 +4,6 @@
 <img src="https://img.shields.io/badge/𝒇𝒍𝒐𝒘𝒆𝒓𝒔-56-C65C86?labelColor=493020">
 </div>
 
-<div align="center">
-
-<img src="https://i.postimg.cc/N0L5ZKHx/In-Shot-20261014-025755361.png" width="400"/>
-
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
     <img src="https://img.shields.io/badge/♡--𝐴𝑡𝑎-65744B?style=flat-square&labelColor=0D1117" alt="AtaBook">
@@ -21,10 +17,6 @@
 <div align="center">
 
 <img src="https://i.postimg.cc/HLY6MZfb/1791549184049.png" width="190"/>
-
-<div align="center">
-
-<img src="https://i.postimg.cc/8PHc5Rdb/In-Shot-20261014-030004957.png" width="190"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:65744B,100:493020&height=2&section=header"/>
 
