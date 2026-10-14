@@ -22,5 +22,9 @@
 
 <img src="https://i.postimg.cc/HLY6MZfb/1791549184049.png" width="190"/>
 
+<div align="center">
+
+<img src="https://i.postimg.cc/8PHc5Rdb/In-Shot-20261014-030004957.png" width="190"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:65744B,100:493020&height=2&section=header"/>
 
