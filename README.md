@@ -4,6 +4,10 @@
 <img src="https://img.shields.io/badge/𝑠𝑡𝑟𝑎𝑤𝑏𝑒𝑟𝑟𝑖𝑒𝑠-56-755E3D?labelColor=493020">
 </div>
 
+<div align="center">
+
+<img src="https://i.postimg.cc/Z5w1CRDx/In-Shot-20261014-033828391.png" width="400"/>
+
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
     <img src="https://img.shields.io/badge/♡--𝐴𝑡𝑎-755E3D?style=flat-square&labelColor=0D1117" alt="AtaBook">
