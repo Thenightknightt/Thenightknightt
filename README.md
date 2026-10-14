@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://i.postimg.cc/3JSswNqS/In-Shot-20261014-035003177.png" width="250">
+<img src="https://i.postimg.cc/3JSswNqS/In-Shot-20261014-035003177.png" width="200">
 
 <br><br>
 
@@ -33,6 +33,21 @@
 </details>
 </div>
 
+
+<div align="center">
+<details>
+<summary>𝐼𝑁𝑇 . . .</summary>
+
+<br>
+
+<img src="https://i.postimg.cc/cC5FdgJx/In-Shot-20261014-035256027.png" width="200">
+
+<br><br>
+
+
+
+</details>
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:755E3D,100:493020&height=2&section=header"/>
