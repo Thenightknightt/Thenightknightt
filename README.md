@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/PxpTQZ8M/In-Shot-20261014-023808845.png" width="400"/>
+<img src="https://i.postimg.cc/N0L5ZKHx/In-Shot-20261014-025755361.png" width="400"/>
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
