@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/VLxN9cSF/In-Shot-20261009-084314566.png" width="400"/>
+<img src="https://i.postimg.cc/MTPqy5Tn/In-Shot-20261014-023141109.png" width="400"/>
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
@@ -21,15 +21,6 @@
 <div align="center">
 
 <img src="https://i.postimg.cc/HLY6MZfb/1791549184049.png" width="190"/>
-
-
-<div align="center">
-
-<img src="https://i.postimg.cc/13h1vGp2/In-Shot-20261009-093551814.png" width="190"/>
-
-<div align="center">
-
-<img src="https://i.postimg.cc/cHQxt1md/In-Shot-20261013-073106827.png" width="200"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:65744B,100:493020&height=2&section=header"/>
 
