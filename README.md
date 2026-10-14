@@ -19,8 +19,21 @@
 
 
 <div align="center">
+<details>
+<summary> 𝐷𝑁𝐼 . . .</summary>
 
-<img src="" width="190"/>
+<br>
+
+<img src="https://i.postimg.cc/3JSswNqS/In-Shot-20261014-035003177.png" width="250">
+
+<br><br>
+
+
+
+</details>
+</div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:755E3D,100:493020&height=2&section=header"/>
 
