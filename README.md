@@ -1,4 +1,6 @@
 
+<p align="center">
+  <img src="https://i.postimg.cc/jdXsNzyX/e29f3a46f3e23971104872d47c959392.gif" width="50" />
 
 <div align="center">
 <img src="https://img.shields.io/badge/𝒔𝒑𝒆𝒆𝒅-627-BF8F4A?labelColor=046F3C">
