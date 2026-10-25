@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/𝑠𝑡𝑟𝑎𝑤𝑏𝑒𝑟𝑟𝑖𝑒𝑠-56-755E3D?labelColor=493020">
+<img src="https://img.shields.io/badge/𝒔𝒑𝒆𝒆𝒅-627-755E3D?labelColor=493020">
 </div>
 
 
