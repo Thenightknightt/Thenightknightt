@@ -6,9 +6,21 @@
 <img src="https://img.shields.io/badge/𝒔𝒑𝒆𝒆𝒅-627-BF8F4A?labelColor=046F3C">
 </div>
 
+
+
 <div align="center">
-  <img src="https://i.postimg.cc/Mp0hCt3s/In-Shot-20261025-125814796.png" width="%100"
-      >
+  <table>
+    <tr>
+      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
+        <img src="https://i.postimg.cc/Mp0hCt3s/In-Shot-20261025-125814796.png"
+             width="500"
+             alt="">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
@@ -19,7 +31,6 @@
   </a>
 </p>
 
-. 
 . 
 
 
