@@ -52,7 +52,4 @@
 </div>
 
 
-<p align="center">
-  <img src="https://i.postimg.cc/g2RPNdbh/pony-town-Sonic-afk-c-hfreely-s-ata-dance-3-blinking-padded-4x.gif" width="90" />
-  <img src="https://i.postimg.cc/HxWDYycb/pony-town-Silver-c-hfreely-s-ata-dance-3-blinking-padded-4x.gif" width="90" />
-</p>
+
