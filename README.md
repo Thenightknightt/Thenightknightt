@@ -53,3 +53,7 @@
 
 
 
+<p align="center">
+  <img src="https://i.postimg.cc/YSDFw5yD/In-Shot-20261026-223439709.png" width="90" />
+  <img src="https://i.postimg.cc/zXTTRPVn/In-Shot-20261026-223408150.png" width="90" />
+</p>
