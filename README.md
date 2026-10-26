@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/Mp0hCt3s/In-Shot-20261025-125814796.png"
+        <img src="https://i.postimg.cc/50D37cVg/In-Shot-20261026-131145285.png"
              width="500"
              alt="">
       </td>
@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/Wp9bx2F5/In-Shot-20261026-124743333.png"
+        <img src="https://i.postimg.cc/Mp0hCt3s/In-Shot-20261025-125814796.png"
              width="500"
              alt="">
       </td>
