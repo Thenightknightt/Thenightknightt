@@ -37,14 +37,41 @@
   </a>
 </p>
 
-. 
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
+        <img src="https://i.postimg.cc/Wp9bx2F5/In-Shot-20261026-124743333.png"
+             width="500"
+             alt="">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <p align="center">
   <img src="https://i.postimg.cc/Jz62CnC9/b53502625af705932ea4eac645ad3018.gif" width="90" />
   <img src="https://i.postimg.cc/GtF5WxbP/61a9dca50cf61c2f107e1349aaf7d2d3.gif" width="90" />
 </p>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
+        <img src="https://i.postimg.cc/KvwcvJ5n/In-Shot-20261026-125004863.png"
+             width="500"
+             alt="">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://i.postimg.cc/pLMN67Z0/6120370ab3bfa08c8ab7bd505ff4ce3b.gif" width="90"
 
 
 
