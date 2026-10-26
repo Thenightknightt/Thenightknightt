@@ -57,22 +57,5 @@
   <img src="https://i.postimg.cc/GtF5WxbP/61a9dca50cf61c2f107e1349aaf7d2d3.gif" width="90" />
 </p>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/KvwcvJ5n/In-Shot-20261026-125004863.png"
-             width="500"
-             alt="">
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img src="https://i.postimg.cc/pLMN67Z0/6120370ab3bfa08c8ab7bd505ff4ce3b.gif" width="90"/> 
-
-
-
-𝑖𝑚 𝑡ℎ𝑒 #1 𝑠𝑜𝑛𝑖𝑙𝑣𝑒𝑟 𝑠ℎ𝑖𝑝𝑝𝑒𝑟 𝑜𝑛 𝑝𝑡 𝑖 𝑙𝑜𝑣𝑒 𝑡ℎ𝑖𝑠 𝑠ℎ𝑖𝑝 𝑠𝑚 (𝑎𝑙𝑠𝑜 𝑎𝑑𝑜𝑟𝑒 𝑠𝑜𝑛𝑎𝑚𝑦) 𝑜𝑘 𝑏𝑦𝑒
