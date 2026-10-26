@@ -2,6 +2,12 @@
 <p align="center">
   <img src="https://i.postimg.cc/jdXsNzyX/e29f3a46f3e23971104872d47c959392.gif" width="50" />
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=28&duration=4000&pause=1000&color=046F3C&center=true&vCenter=true&width=900&lines=Who+doesn't+love+Silver%3F+The+guy's+got+a+good+heart%2C;even+if+he+can+be+a+little...+over+the+top." />
+</p>
+  
+
 <div align="center">
 <img src="https://img.shields.io/badge/𝒔𝒑𝒆𝒆𝒅-627-BF8F4A?labelColor=046F3C">
 </div>
