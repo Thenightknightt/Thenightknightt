@@ -71,7 +71,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.postimg.cc/pLMN67Z0/6120370ab3bfa08c8ab7bd505ff4ce3b.gif" width="90"
+  <img src="https://i.postimg.cc/pLMN67Z0/6120370ab3bfa08c8ab7bd505ff4ce3b.gif" width="90"/> 
 
 
 
