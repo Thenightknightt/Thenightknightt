@@ -57,3 +57,63 @@
   <img src="https://i.postimg.cc/YSDFw5yD/In-Shot-20261026-223439709.png" width="90" />
   <img src="https://i.postimg.cc/zXTTRPVn/In-Shot-20261026-223408150.png" width="90" />
 </p>
+
+
+
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<details>
+<summary><b>Infos!! #READ</b></summary>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+name is banny! im 17y/o 
+
+i don't sit in the STH area always but 
+if you saw me PLZZZZAHH sit with me!! 
+c+hfreely! im mostly always sit alone 
+there 
+
+GUYS ISTG IM SO FRIENDLY PLZ INT!!! 
+sigh but mostly offt/afk so feel free 
+to whisper instead!! 
+
+im VERY OKEY with ships!! every ship 
+is good as long as its not 
+toxic/problematic/dark/pro ship!  
+
+heh i fav sonilver (Sonic x Silver) 
+ok? ig its clear, awhhawh i love em sm 
+my babies 
+
+some sonilver bullshi here: 
+
+<p align="center">
+  <img src="https://i.postimg.cc/3x40kVGx/34ac778a3244cf7ccc82298d9c9dc18d.jpg" width="150" />
+
+  <p align="center">
+  <img src="" width="150" />
+
+
+
+</td>
+</tr>
+</table>
+
+</details>
+
+</td>
+</tr>
+</table>
+
+</div>
+
