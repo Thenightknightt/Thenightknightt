@@ -98,10 +98,10 @@ my babies
 some sonilver bullshi here: 
 
 <p align="center">
-  <img src="https://i.postimg.cc/3x40kVGx/34ac778a3244cf7ccc82298d9c9dc18d.jpg" width="150" />
+  <img src="https://i.postimg.cc/3x40kVGx/34ac778a3244cf7ccc82298d9c9dc18d.jpg" width="200" />
 
   <p align="center">
-  <img src="" width="150" />
+  <img src="https://i.postimg.cc/Ls7J2T5t/3dc448f4d476279b8665641346fffb7b.jpg" width="200" />
 
 
 
