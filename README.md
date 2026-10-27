@@ -68,7 +68,7 @@
 <td align="center">
 
 <details>
-<summary><b>Infos!! #READ</b></summary>
+<summary><b>Infos!!</b></summary>
 
 <br>
 
@@ -77,6 +77,8 @@
 <td align="center">
 
 name is banny! im 17y/o 
+
+this is an alt account. 
 
 i don't sit in the STH area always but 
 if you saw me PLZZZZAHH sit with me!! 
@@ -94,6 +96,10 @@ toxic/problematic/dark/pro ship!
 heh i fav sonilver (Sonic x Silver) 
 ok? ig its clear, awhhawh i love em sm 
 my babies 
+
+if you wanna know more just check my strawpage!(im remakin it soon) 
+
+-
 
 some sonilver bullshi here: 
 
