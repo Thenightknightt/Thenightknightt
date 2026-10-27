@@ -86,7 +86,7 @@ c+hfreely! im mostly always sit alone
 there 
 
 GUYS ISTG IM SO FRIENDLY PLZ INT!!! 
-sigh but mostly offt/afk so feel free 
+sigh but most of time offt/afk so feel free 
 to whisper instead!! 
 
 im VERY OKEY with ships!! every ship 
