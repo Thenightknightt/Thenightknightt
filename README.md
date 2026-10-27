@@ -95,7 +95,7 @@ toxic/problematic/dark/pro ship!
 
 heh i fav sonilver (Sonic x Silver) 
 ok? ig its clear, awhhawh i love em sm 
-my babies 
+my babies (i also like sonamy!!!) 
 
 if you wanna know more just check my strawpage!(im remakin it soon) 
 
