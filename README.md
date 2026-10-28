@@ -78,7 +78,7 @@
 
 name is banny! im 17y/o 
 
-this is an alt account. 
+this is an alt account for my STH skins
 
 i don't sit in the STH area always but 
 if you saw me PLZZZZAHH sit with me!! 
