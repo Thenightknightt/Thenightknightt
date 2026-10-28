@@ -108,8 +108,12 @@ if you wanna know more just check my strawpage!(im remakin it soon)
   <p align="center">
   <img src="https://i.postimg.cc/HxMnJ1mf/1793215872050.jpg" width="200" />
 
+  
   <p align="center">
   <img src="https://i.postimg.cc/2yF5wdVk/1793215884494.jpg" width="200" />
+
+  <p align="center">
+  <img src="https://i.postimg.cc/SRqSJXDY/1793215935159.jpg" width="200" />
 
 
 
