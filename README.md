@@ -94,8 +94,7 @@ is good as long as its not
 toxic/problematic/dark/pro ship!  
 
 heh i fav sonilver (Sonic x Silver) 
-ok? ig its clear, awhhawh i love em sm 
-my babies (i also like sonamy!!!) 
+ok? ig its clear, awhhawh i love em sm ok
 
 if you wanna know more just check my strawpage!(im remakin it soon) 
 
