@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/50D37cVg/In-Shot-20261026-131145285.png"
+        <img src="https://i.postimg.cc/Y0mFnRX5/In-Shot-20261028-160554343.png"
              width="500"
              alt="">
       </td>
