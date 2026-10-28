@@ -103,13 +103,13 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/W10BLPD8/6f08d9cfbcfdf29aa524d3f89b8a98be.jpg" width="200" />
+  <img src="https://i.postimg.cc/6qd8PJ1Z/1793215859701.jpg" width="200" />
 
   <p align="center">
-  <img src="https://i.postimg.cc/3Rf6C861/52e1d6ac1c7a4e4f1206a773c813a9eb.jpg" width="200" />
+  <img src="https://i.postimg.cc/HxMnJ1mf/1793215872050.jpg" width="200" />
 
   <p align="center">
-  <img src="https://i.postimg.cc/ncqxZmNZ/5a7a291def24554b6ee7864df0528717.jpg" width="200" />
+  <img src="https://i.postimg.cc/2yF5wdVk/1793215884494.jpg" width="200" />
 
 
 
