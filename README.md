@@ -3,29 +3,18 @@
   <img src="https://i.postimg.cc/jdXsNzyX/e29f3a46f3e23971104872d47c959392.gif" width="50" />
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=28&duration=4000&pause=1000&color=046F3C&center=true&vCenter=true&width=900&lines=Who+doesn't+love+Silver%3F+The+guy's+got+a+good+heart%2C;even+if+he+can+be+a+little...+over+the+top." />
-</p>
+
   
 
 <div align="center">
-<img src="https://img.shields.io/badge/𝒔𝒑𝒆𝒆𝒅-627-BF8F4A?labelColor=046F3C">
+<img src="https://img.shields.io/badge/𝑯𝑶𝑷𝑬-627-BF8F4A?labelColor=046F3C">
 </div>
 
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/MHbBJHSn/In-Shot-20261028-161005229.png"
-             width="500"
-             alt="">
-      </td>
-    </tr>
-  </table>
-</div>
-
+   <img src="https://i.postimg.cc/hPm0nbr9/In-Shot-20261029-030520974.png"
+             width="100%"> 
 
 
 <p align="center">
@@ -40,22 +29,12 @@
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 3px solid #a9d6ff; padding: 8px;">
-        <img src="https://i.postimg.cc/Mp0hCt3s/In-Shot-20261025-125814796.png"
-             width="500"
-             alt="">
-      </td>
-    </tr>
-  </table>
-</div>
-
+   <img src="https://i.postimg.cc/2634K4yj/In-Shot-20261029-030727984.png"
+             width="100%"> 
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/YSDFw5yD/In-Shot-20261026-223439709.png" width="90" />
-  <img src="https://i.postimg.cc/zXTTRPVn/In-Shot-20261026-223408150.png" width="90" />
+   <img src="https://i.postimg.cc/zXTTRPVn/In-Shot-20261026-223408150.png" width="90" />
 </p>
 
 
@@ -85,7 +64,7 @@ if you saw me PLZZZZAHH sit with me!!
 c+hfreely! im mostly always sit alone 
 there 
 
-GUYS ISTG IM SO FRIENDLY PLZ INT!!! 
+IM SO FRIENDLY PLZ INT!!! 
 sigh but most of time offt/afk so feel free 
 to whisper instead!! 
 
@@ -93,27 +72,8 @@ im VERY OKEY with ships!! every ship
 is good as long as its not 
 toxic/problematic/dark/pro ship!  
 
-heh i fav sonilver (Sonic x Silver) 
-ok? ig its clear, awhhawh i love em sm ok
-
 if you wanna know more just check my strawpage!(im remakin it soon) 
 
--
-
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/6qd8PJ1Z/1793215859701.jpg" width="200" />
-
-  <p align="center">
-  <img src="https://i.postimg.cc/HxMnJ1mf/1793215872050.jpg" width="200" />
-
-  
-  <p align="center">
-  <img src="https://i.postimg.cc/2yF5wdVk/1793215884494.jpg" width="200" />
-
-  <p align="center">
-  <img src="https://i.postimg.cc/SRqSJXDY/1793215935159.jpg" width="200" />
 
 
 
