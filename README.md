@@ -76,6 +76,11 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 
+<p align="center">
+  <img src="https://i.postimg.cc/8z92Xbt4/In-Shot-20261029-035450782.png" width="90" />
+
+
+
 
 </td>
 </tr>
