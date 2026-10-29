@@ -91,11 +91,11 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/Qtnv2kqn/492d4614212e13a862bf5d6ab78a9132.gif" width="200">
-  <img src="https://i.postimg.cc/DwrkSG2z/17e997b99f2d042a82f42e035a677478.gif" width="200">
+  <img src="https://i.postimg.cc/Qtnv2kqn/492d4614212e13a862bf5d6ab78a9132.gif" width="100">
+  <img src="https://i.postimg.cc/DwrkSG2z/17e997b99f2d042a82f42e035a677478.gif" width="100">
   <br>
-  <img src="https://i.postimg.cc/L4WMwRC6/423ed85bec2c17c41f2f87bef2e357b9.gif" width="200">
-  <img src="https://i.postimg.cc/QCFZCntG/b4792f7137d234f14dbeb72d5e4ffec0.gif" width="200">
+  <img src="https://i.postimg.cc/L4WMwRC6/423ed85bec2c17c41f2f87bef2e357b9.gif" width="100">
+  <img src="https://i.postimg.cc/QCFZCntG/b4792f7137d234f14dbeb72d5e4ffec0.gif" width="100">
 </div>
 
 
