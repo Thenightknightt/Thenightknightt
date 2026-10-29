@@ -89,3 +89,13 @@ if you wanna know more just check my strawpage!(im remakin it soon)
 
 </div>
 
+
+<div align="center">
+  <img src="GIF_LINK_1" width="200">
+  <img src="GIF_LINK_2" width="200">
+  <br>
+  <img src="GIF_LINK_3" width="200">
+  <img src="GIF_LINK_4" width="200">
+</div>
+
+
