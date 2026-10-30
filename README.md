@@ -64,7 +64,7 @@ if you saw me PLZZZZAHH sit with me!!
 c+hfreely! im mostly always sit alone 
 there 
 
-IM SO FRIENDLY PLZ INT!!! 
+IM SO FRIENDLY PLZ INT (i might be shy a lit, i never int first) 
 sigh but most of time offt/afk so feel free 
 to whisper instead!! 
 
